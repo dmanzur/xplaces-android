@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+
+    <View
+        android:layout_margin="8dp"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorBlack" />
+
+    <TextView
+        android:id="@+id/placeListCellName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="25sp"/>
+
+    <ImageView
+        android:id="@+id/placeListCellImage"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:paddingTop="8dp"
+        android:scaleType="fitXY"/>
+
+    <TextView
+        android:id="@+id/placeListCellDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:maxLines="3"
+        android:textSize="20sp" />
+
+
+
+</LinearLayout>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Xplaces</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appicon">appIcon</string>
+    <string name="AuthRegisterBtn">Register</string>
+    <string name="AuthLoginBtn">Login</string>
+    <string name="registrationRegisterBtn">Register</string>
+    <string name="loginLoginBtn">Login</string>
+    <string name="loginEmailHint">email</string>
+    <string name="loginPasswordHint">password</string>
+    <string name="registrationName">name</string>
+    <string name="find_btn_text">Find</string>
+    <string name="logout_btn_text">Logout</string>
+    <string name="about_xplaces_title">About Xplaces</string>
+    <string name="menu_settings_title">Settings</string>
+    <string name="menu_find_place_title">Find place</string>
+    <string name="menu_favorites_title">Favorites</string>
+    <string name="menu_home_title">Home</string>
+</resources>
